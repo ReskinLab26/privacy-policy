@@ -30,5 +30,3 @@
 
  <h2>Contact Us</h2>
 <p>If you have any questions or suggestions about our Privacy Policy, feel free to contact us at: <strong>reskinlab26@gmail.com</strong></p>
-</body>
-</html>
